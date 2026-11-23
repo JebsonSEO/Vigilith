@@ -3,9 +3,7 @@
 
 **Security Monitoring | Detection Engineering | Threat Intelligence | Incident Response | Cloud Security**
 
-Vigilith is an independent security engineering initiative focused on developing a practical security monitoring and incident response platform.
-
-Its mission is to collect and analyse security telemetry, identify suspicious behaviour, support evidence-based investigations and develop controlled incident response capabilities across endpoint, network and cloud environments.
+Vigilith is an integrated security monitoring, threat detection and incident response platform designed to provide visibility across endpoint, network and cloud environments. It combines security telemetry, detection engineering, threat intelligence and evidence-based investigation to identify, analyse and respond to security threats.
 
 ## Project Philosophy
 
@@ -78,4 +76,4 @@ Credentials, private keys, sensitive logs, personal information and confidential
 
 ## Author
 
-An independent practical security engineering initiative focused on demonstrating capabilities in cybersecurity, SOC operations, cloud security, detection engineering and incident response.
+An integrated security operations platform developed to demonstrate practical capabilities in cybersecurity, SOC operations, cloud security, detection engineering and incident response.
